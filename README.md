@@ -1,6 +1,6 @@
-# Coding for Humanists course materials
+# Programming for the Humanities course materials
 
-These are materials for the course [Coding for Humanists] at Trinity College Dublin. This X-week course introduces Digital Humanities graduate students to fundamentals of query, corpora, Python, common data science libraries (such as Pandas), and experiment design, without assuming any technical background. 
+These are materials for the course Programming for the Humanities at Trinity College Dublin. This X-week course introduces Digital Humanities graduate students to fundamentals of query, corpora, Python, common data science libraries (such as Pandas), and experiment design, without assuming any technical background. 
 
 ## Sources and inspiration
 
